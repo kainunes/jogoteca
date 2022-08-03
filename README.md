@@ -1,5 +1,7 @@
 <h1 align="center"> Jogoteca </h1>
-<p> ![foto de capa](https://user-images.githubusercontent.com/91830696/182631147-148a7a21-a6a1-4426-aebb-9e2f08ecc24d.jpg) </p>
+<div align=center>
+ ![foto de capa](https://user-images.githubusercontent.com/91830696/182631147-148a7a21-a6a1-4426-aebb-9e2f08ecc24d.jpg) 
+</div>
 
 
 # Descrição do Projeto;

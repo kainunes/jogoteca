@@ -1,5 +1,8 @@
+<div align=center>
+ ![foto de capa](https://user-images.githubusercontent.com/91830696/182631147-148a7a21-a6a1-4426-aebb-9e2f08ecc24d.jpg) 
+</div>
 <h1 align="center"> Jogoteca </h1>
- ![Badge em Desenvolvimento](https://img.shields.io/badge/Status-Em%20Desenvolvimento-green)
+![Badge em Desenvolvimento](https://img.shields.io/badge/Status-Em%20Desenvolvimento-green)
 <div align=center>
  ![foto de capa](https://user-images.githubusercontent.com/91830696/182631147-148a7a21-a6a1-4426-aebb-9e2f08ecc24d.jpg) 
 </div>

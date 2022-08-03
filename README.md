@@ -1,4 +1,4 @@
-# Jogoteca
+<h1 align="center"> Jogoteca </h1>
 
 # Descrição do Projeto;
  Catalogação de jogos em um banco de dados

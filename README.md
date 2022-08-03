@@ -1,4 +1,6 @@
 <h1 align="center"> Jogoteca </h1>
+![foto de capa](https://user-images.githubusercontent.com/91830696/182631147-148a7a21-a6a1-4426-aebb-9e2f08ecc24d.jpg)
+
 
 # Descrição do Projeto;
  Catalogação de jogos em um banco de dados
